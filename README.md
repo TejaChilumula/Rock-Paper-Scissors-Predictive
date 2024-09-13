@@ -2,6 +2,9 @@
 
 Welcome to the Rock-Paper-Scissors Game, an exciting journey through game development with C++ and Qt! This game not only lets you enjoy the classic challenge against the computer 🖥️ but also features a predictive model 🧠 that anticipates your next move, making the game even more thrilling and unpredictable.
 
+![image](https://github.com/user-attachments/assets/6488db8e-57f1-42bf-8ed2-8d352df3b533)
+
+
 ## Features 🌟
 
 - **Classic Game Play**🕹️: Enjoy the well-known game of Rock, Paper, Scissors against a computer opponent.
